@@ -1,52 +1,53 @@
-# Hi there, I'm Dharshan Gangadhar! 👋
+# <p align="center">Hi there, I'm Dharshan Gangadhar! 👋</p>
 
-## 🚀 Engineering Student & AI Enthusiast
-I am a professional engineering student focused on the intersection of full-stack development, Artificial Intelligence. My work emphasizes clean, high-performance architecture and the implementation of industrial-grade prompt engineering.
+### <p align="center">Professional Engineering Student | AI Enthusiast | Full-Stack Developer</p>
+
+<p align="center">
+I am a dedicated <b>Professional Engineering Student</b> focused on the intersection of scalable web applications, Artificial Intelligence. My work prioritizes performance, technical precision, and authentic user experiences.
+</p>
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| Category | Technologies & Skills |
+| Domain | Technologies & Skills |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Docker, MongoDB |
-| **AI & ML** | Prompt Engineering, RAG Systems, ONNX, Image Processing |
-| **Security** | Network Security, SecureChain Protocols |
+| **Backend** | Node.js, Express, Docker,  MongoDB |
+| **AI & ML** | Industrial Prompt Engineering, RAG Systems, ONNX, Image Restoration |
+| **Security** | Network Security, ARP Poisoning Analysis, SecureChain Protocols |
 
 ---
 
-### 🔬 Featured Projects
+### 🔬 The Development Lab
 
-#### 🔄 **SwapSkillz & SecureChain**
-A P2P skill-sharing platform integrated with a decentralized security ecosystem. Developed using Docker for containerization and GitHub for version control.
-
-#### 🛠️ **Universal Restorer**
-A Python-based tool utilizing ONNX for high-resolution 4K upscaling. It is optimized for Intel i5 systems and focuses on preserving exact facial symmetry and natural aesthetics without AI-generated distortions.
-
-#### 🎮 **AnimeVerseGaming**
-A high-performance gaming platform hosted on Vercel, optimized with specific SEO keyword strategies for maximum engagement.
-
-#### 🤖 **RAG Implementation**
-A Retrieval-Augmented Generation project built with the Endee Vector Database, designed for intelligent data querying and internship evaluations.
+*   **🔄 [SwapSkillz & SecureChain](https://github.com/Dharshan-Gangadhar/SwapSkillz)**: A decentralized P2P skill-sharing platform built with a focus on security and containerized efficiency.
+*   **🛠️ Universal Restorer**: A Python-based tool utilizing ONNX for high-resolution 4K upscaling and precise facial symmetry. It is optimized for Intel systems to achieve professional results while preserving exact likeness.
+*   **🤖 AI/ML RAG Project**: A Retrieval-Augmented Generation system developed using the **Endee Vector Database** for intelligent data querying and internship evaluations.
+*   **🎮 [AnimeVerseGaming](https://animeversegamming.vercel.app/)**: A high-performance gaming hub optimized with targeted SEO strategies for modern engagement.
 
 ---
 
-### 🏆 Milestones & Achievements
-*   **AMD Slingshot 2026 Innovator Badge**: Recognized for excellence in high-performance computing challenges.
-*   **Industrial Prompt Engineering Certification**: Mastery in developing industrial-level AI workflows and optimizations.
-*   **Mindenious Edutech**: Actively engaged in professional development and industrial training programs.
+### 🏆 Milestones & Recognition
+
+*   **AMD Slingshot 2026 Innovator Badge**: Recognized for excellence in high-performance computing and innovative solutions.
+*   **Certified Industrial Prompt Engineer**: Mastery in developing industrial-level AI workflows and prompt optimizations.
+*   **Professional Development**: Actively engaged in industrial training programs through Mindenious Edutech.
 
 ---
 
 ### 🛡️ Development Philosophy
-I prioritize a **"Natural Precision"** approach to technology. Whether I am enhancing images or building AI prompts, I strictly avoid synthetic adjustments that alter original likeness, preferring a casual, neat, and authentic aesthetic.
+
+> **"Natural Precision over Synthetic Adjustment."**
+>
+> I prioritize a "casual, neat, and clean" aesthetic. Whether I am optimizing network protocols or enhancing imagery, my goal is to maintain the integrity and natural likeness of the original data while maximizing technical performance.
 
 ---
 
 ### 📫 Connect with Me
-*   **LinkedIn**: https://www.linkedin.com/in/dharshan-gangadhar75/
-*   **Email**: dharshanoffll@gmail.com
-*   **Portfolio**: https://dharshan-portfolio-psi.vercel.app/
 
-*"Engineering for precision. Optimized for the future."*
+*   **LinkedIn**: [linkedin.com/in/dharshan-gangadhar75](https://www.linkedin.com/in/dharshan-gangadhar75/)
+*   **Portfolio**: [https://dharshan-portfolio-psi.vercel.app/](https://dharshan-portfolio-psi.vercel.app/)
+*   **Email**: [[dharshanoffll@gmail.com]]
+
+<p align="center"><i>"Building the future, one prompt and one commit at a time."</i></p>
