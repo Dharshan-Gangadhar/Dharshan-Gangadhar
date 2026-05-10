@@ -1,53 +1,52 @@
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+# Hi there, I'm [Dharshan Gangadhar]! 👋
+
+## 🚀 Engineering Student & AI Architect
+I am a professional engineering student focused on the intersection of full-stack development, Artificial Intelligence. My work emphasizes clean, high-performance architecture and the implementation of industrial-grade prompt engineering.
 
 ---
 
-# Hey there, this is Dharshan
+### 🛠️ Technical Arsenal
 
-🌍 **My Location** — Karur, India 🇮🇳
-🎯 **My Focus** — AI Engineering · Agentic AI · Fullstack Development · Cloud
-💡 **My Mindset** — Build → Optimize → Improve → Repeat
-🎓 **Currently** — Engineering Student @ VSB Engineering College
-
-### I'm interested in:
-🤖 AI Engineering · 🧩 Agentic AI · 🌐 Next.js & MERN Stack
-💳 Fintech Interfaces · 🏗️ Enterprise Cloud · 🌱 Open Source Contribution
-
-⚡ **Fun Fact about me** — I run a technical blog focused on AI insights and was recently selected as a contributor for GSSoC '26! 🚀
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS[cite: 1] |
+| **Backend** | Node.js, Docker, MongoDB, PostgreSQL[cite: 1] |
+| **AI & ML** | Prompt Engineering, RAG Systems, ONNX, Image Processing[cite: 1] |
+| **Security** | Network Security, ARP Poisoning Analysis, SecureChain Protocols[cite: 1] |
 
 ---
 
-## 🛠️ Tech Stack
+### 🔬 Featured Projects
 
-### 💻 Primary Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+#### 🔄 **SwapSkillz & SecureChain**
+A P2P skill-sharing platform integrated with a decentralized security ecosystem[cite: 1]. Developed using Docker for containerization and GitHub for version control[cite: 1].
 
-### 🚀 Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🛠️ **Universal Restorer**
+A Python-based tool utilizing ONNX for high-resolution 4K upscaling[cite: 1]. It is optimized for Intel i5 systems and focuses on preserving exact facial symmetry and natural aesthetics without AI-generated distortions[cite: 1].
 
-### ☁️ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+#### 🎮 **AnimeVerseGaming**
+A high-performance gaming platform hosted on Vercel, optimized with specific SEO keyword strategies for maximum engagement[cite: 1].
+
+#### 🤖 **RAG Implementation**
+A Retrieval-Augmented Generation project built with the Endee Vector Database, designed for intelligent data querying and internship evaluations[cite: 1].
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Dharshan's GitHub stats" />
-</p>
+### 🏆 Milestones & Achievements
+*   **AMD Slingshot 2026 Innovator Badge**: Recognized for excellence in high-performance computing challenges[cite: 1].
+*   **Industrial Prompt Engineering Certification**: Mastery in developing industrial-level AI workflows and optimizations[cite: 1].
+*   **Mindenious Edutech**: Actively engaged in professional development and industrial training programs[cite: 1].
 
 ---
 
-## 🎨 Beyond Tech
-* ✍️ **Writing:** I enjoy breaking down complex AI workflows on my technical blog.
-* 🏆 **Challenges:** Active on HackerRank and HackerEarth for competitive programming.
-* 🤝 **Community:** Passionate about open-source and collaborative building.
+### 🛡️ Development Philosophy
+I prioritize a **"Natural Precision"** approach to technology. Whether I am enhancing images or building AI prompts, I strictly avoid synthetic adjustments that alter original likeness, preferring a casual, neat, and authentic aesthetic.
+
+---
+
+### 📫 Connect with Me
+*   **LinkedIn**: [Your Profile Link]
+*   **Email**: [Your Email]
+*   **Portfolio**: [Your Vercel/Portfolio Link]
+
+*"Engineering for precision. Optimized for the future."*
