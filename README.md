@@ -46,8 +46,8 @@ I am a dedicated <b>Professional Engineering Student</b> focused on the intersec
 
 ### 📫 Connect with Me
 
-*   **LinkedIn**: [linkedin.com/in/dharshan-gangadhar75](https://www.linkedin.com/in/dharshan-gangadhar75/)
-*   **Portfolio**: [https://dharshan-portfolio-psi.vercel.app/](https://dharshan-portfolio-psi.vercel.app/)
-*   **Email**: [[dharshanoffll@gmail.com]]
+*   **LinkedIn**: [Dharshan gangadhar](https://www.linkedin.com/in/dharshan-gangadhar75/)
+*   **Portfolio**: [Dharshan](https://dharshan-portfolio-psi.vercel.app/)
+*   **Email**: [dharshanoffll@gmail.com]
 
 <p align="center"><i>"Building the future, one prompt and one commit at a time."</i></p>
