@@ -57,11 +57,11 @@ I am an <b>Engineering Student</b> specializing in the intersection of scalable 
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshan-Gangadhar&show_icons=true&theme=tokyonight&hide_border=true" alt="Dharshan's Stats" />
+  <!-- Using an alternative reliable stats provider -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharshan-Gangadhar&show_icons=true&theme=tokyonight&hide_border=true" alt="Dharshan's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshan-Gangadhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharshan-Gangadhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
----
 
 ### 🛡️ Development Philosophy
 
