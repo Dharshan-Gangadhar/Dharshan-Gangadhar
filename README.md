@@ -1,72 +1,66 @@
-# <p align="center">Hi there, I'm Dharshan Gangadhar! 👋</p>
+<div align="center">
+  <h1>Hi there, I'm Dharshan Gangadhar 👋</h1>
+  <p><em>Computer Science student specializing in AI, Software Engineering, and Full-Stack Development</em></p>
 
-### <p align="center">Full-Stack Developer | AI Engineer | Open Source Contributor</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dharshan-gangadhar75/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dharshan-portfolio-psi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:dharshanoffll@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-I am an <b>Engineering Student</b> specializing in the intersection of scalable web architectures and Artificial Intelligence. My work prioritizes <b>Natural Precision</b>—optimizing performance and security while maintaining the authentic integrity of the original data.
-</p>
-
----
-
-### 🚀 At a Glance
-
-*   🔭 **Current Focus:** Building Agentic Workflows and RAG-based systems for enterprise integration.
-*   🌱 **Learning:** Advanced Cloud Architecture (AWS/Azure) and the Salesforce ecosystem.
-*   🤝 **Open Source:** Proud contributor to **GirlScript Summer of Code (GSSoC) 2026**.
-*   ✍️ **Writing:** Sharing technical insights on my [AI Tech Blog](https://ai-tech-blog-gilt.vercel.app/).
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Web Dev** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **AI & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **ONNX, RAG Systems, Industrial Prompt Engineering** |
-| **Security** | **Network Security, ARP Poisoning Analysis, SecureChain Protocols** |
-
----
-
-### 🔬 Featured Projects
-
-*   **🔄 [SwapSkillz & SecureChain](https://github.com/Dharshan-Gangadhar/SwapSkillz)**
-    *   A decentralized P2P skill-sharing platform emphasizing containerized efficiency and cryptographic security.
-*   **🛠️ Universal Restorer**
-    *   High-resolution 4K upscaling tool utilizing **ONNX** for precise facial symmetry and professional-grade image restoration.
-*   **🤖 AI/ML RAG Project**
-    *   Retrieval-Augmented Generation system powered by the **Endee Vector Database** for intelligent querying and internship evaluations.
-
----
-
-### 🏆 Milestones & Recognition
-
-*   **AMD Slingshot 2026**: Innovator Badge for excellence in high-performance computing.
-*   **GSSoC 2026**: Selected contributor for the GirlScript Summer of Code.
-*   **Infosys Springboard**: Artificial Intelligence Intern (Aug 2025 - Oct 2025).
-*   **Frontend Certified**: Professional certification from Pumo Technovation.
-
----
-
-### 📊 GitHub Metrics
-
-<p align="center">
-  <!-- Using an alternative reliable stats provider -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dharshan-Gangadhar&show_icons=true&theme=tokyonight&hide_border=true" alt="Dharshan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Dharshan-Gangadhar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=https://github.com/Dharshan-Gangadhar&theme=radical&hide_border=true" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dharshan-Gangadhar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-### 🛡️ Development Philosophy
+---
 
-> **"Natural Precision over Synthetic Adjustment."**
->
-> I believe in a clean, minimalist aesthetic. Whether I am architecting a backend or refining an image, my goal is to enhance performance without losing the soul of the original data.
+### 🌱 What I'm Currently Focusing On
 
-<p align="center"><i>"Building the future, one prompt and one commit at a time."</i></p>
+*   Sharing my experiences and views on technology by writing and publishing posts on my Technical Journal Blog Application.
+*   Mastering advanced prompt engineering and exploring practical network security implementations.
+
+### 🛠️ Tech Stack & Skills
+
+*   **Languages:** Java, Python, JavaScript, HTML/CSS
+*   **Frontend Frameworks:** React.js, Next.js
+*   **Backend & Databases:** Flask, Node.js, SQL (MySQL), MongoDB Atlas
+*   **AI & APIs:** NLP pipelines, ChatGPT API, Google Gemini, Claude
+*   **Tools & Platforms:** Figma, Google Analytics, GitHub, VS Code, Vercel, Render, Docker
+
+---
+
+### 💼 Experience
+
+*   **GSSOC'26 Contributor | Open-Source Contributor** (May 2026 - Oct 2026)
+    *   Actively contributed to open-source software repositories during the GirlScript Summer of Code 2026 program.
+    *   Enhanced features and resolved bugs in diverse web applications built with React.js and Next.js frameworks.
+    *   Collaborated with project maintainers globally to review code submissions and maintain version control integrity.
+
+*   **Artificial Intelligence Intern | Infosys Springboard** (Aug 2025 - Oct 2025)
+    *   Developed a Customer Review Insight System to parse large-scale user feedback and extract product performance metrics.
+    *   Implemented Natural Language Processing (NLP) models to classify customer sentiment and isolate top feature requests.
+    *   Built web dashboards leveraging Python data visualization toolkits to present key findings for executive-level review.
+
+---
+
+### 🚀 Featured Projects
+
+*   **Technical Journal Blog Application** 
+    Built a high-performance rendering blog site powered by Next.js and MDX file structures for lightweight publishing on modern web infrastructure. 
+*   **Customer Review Insight System** 
+    Engineered an NLP pipeline with NLTK to evaluate user sentiment data, producing clear data frameworks for product diagnostics using Python, Pandas, and Flask.
+*   **Animeverse Gaming Platform** 
+    Designed and launched a client-side gaming application hub focused on cross-platform layout fluidness and asset loading optimizations using HTML, CSS, and JavaScript.
+*   **Universal Restorer** 
+    A custom image processing script built with Python and ONNX to achieve 4K resolution upscaling while maintaining exact facial symmetry.
+
+---
+
+### 🏆 Certifications & Achievements
+
+*   **Principles of Generative AI Certification & Java Foundation Certificate** - Infosys Springboard
+*   **Java Programming Certification** - NPTEL
+*   **Full-Stack Development Certificate** - Mindenious Edu Tech
+*   **Innovator Badge** - AMD Slingshot 2026
+
+---
+
+📫 **Let's Connect!** 
+*   **Email:** dharshanoffll@gmail.com
+*   **LinkedIn:** [Dharshan Gangadhar](#) *(Add your link here)*
+*   **GitHub:** [Dharshan](#) *(Add your link here)*
