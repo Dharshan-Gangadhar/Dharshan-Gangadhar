@@ -47,12 +47,7 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/dharshanoffll">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshan-Gangadhar&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-  </a>
-</div>
-<br>
+
 
 <div align="center">
   📫 <strong>Let's Connect!</strong> <br/>
