@@ -18,7 +18,7 @@
 
 ### 🌱 What I'm Currently Focusing On
 
-*   📝 Writing and publishing posts on my **Technical Journal Blog Application**.
+*   📝 Curious in learning and implementing **technologies**.
 *   🤖 Mastering advanced **Prompt Engineering**.
 *   🔐 Exploring practical **Network Security** implementations.
 
