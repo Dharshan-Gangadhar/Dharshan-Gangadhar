@@ -45,35 +45,7 @@
 
 ---
 
-### 💼 Experience
 
-*   🟩 **GSSOC'26 Contributor | Open-Source Contributor** *(May 2026 - Oct 2026)*
-    *   Actively contributed to open-source software repositories during the GirlScript Summer of Code 2026 program.
-    *   Enhanced features and resolved bugs in diverse web applications built with React.js and Next.js frameworks.
-
-*   🟦 **Artificial Intelligence Intern | Infosys Springboard** *(Aug 2025 - Oct 2025)*
-    *   Developed a Customer Review Insight System to parse large-scale user feedback and extract product performance metrics.
-    *   Implemented NLP models to classify customer sentiment and isolate top feature requests.
-
----
-
-### 🚀 Featured Projects
-
-*   📓 **Technical Journal Blog Application:** A high-performance rendering blog site powered by Next.js and MDX file structures for lightweight publishing on modern web infrastructure. 
-*   📊 **Customer Review Insight System:** Engineered an NLP pipeline with NLTK to evaluate user sentiment data using Python, Pandas, and Flask.
-*   🎮 **Animeverse Gaming Platform:** Designed and launched a client-side gaming application hub focused on cross-platform layout fluidness and asset loading optimizations.
-*   🖼️ **Universal Restorer:** A custom image processing script built with Python and ONNX to achieve 4K resolution upscaling while maintaining exact facial symmetry.
-
----
-
-### 🏆 Certifications & Achievements
-
-*   🥇 **Innovator Badge** - AMD Slingshot 2026
-*   📜 **Principles of Generative AI & Java Foundation** - Infosys Springboard
-*   📜 **Java Programming Certification** - NPTEL
-*   📜 **Full-Stack Development Certificate** - Mindenious Edu Tech
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/dharshanoffll">
